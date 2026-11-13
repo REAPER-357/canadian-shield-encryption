@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Canadian Shield</string>
+    <string name="title_activity_main">Canadian Shield</string>
+    <string name="package_name">com.reaper.canadiandhield</string>
+    <string name="custom_url_scheme">com.reaper.canadiandhield</string>
+</resources>
